@@ -1,0 +1,3 @@
+ERROR - 2021-09-13 00:22:39 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FOREING KEY (ordem_id) REFERENCES ordens(id)
+				ON DELETE CASCADE ON UPDATE ...' at line 3
+ERROR - 2021-09-13 00:24:52 --> Duplicate column name 'ordem_id'

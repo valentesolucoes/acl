@@ -1,0 +1,44 @@
+CRITICAL - 2021-09-07 17:06:24 --> You should provide a barcode string.
+#0 C:\xampp\htdocs\ordem\vendor\picqer\php-barcode-generator\src\BarcodeGenerator.php(101): Picqer\Barcode\Types\TypeCode128->getBarcodeData('')
+#1 C:\xampp\htdocs\ordem\vendor\picqer\php-barcode-generator\src\BarcodeGeneratorSVG.php(20): Picqer\Barcode\BarcodeGenerator->getBarcodeData('', 'C128')
+#2 C:\xampp\htdocs\ordem\app\Controllers\Itens.php(214): Picqer\Barcode\BarcodeGeneratorSVG->getBarcode('', 'C128', 3, 80)
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Itens->codigoBarras(5001)
+#4 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Itens))
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ordem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-09-07 17:39:49 --> greater_then não é uma regra válida.
+#0 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Validation\Validation.php(321): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('greater_then')
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Validation\Validation.php(159): CodeIgniter\Validation\Validation->processRules('item_quantidade', 'item_quantidade', '1', Array, Array)
+#2 C:\xampp\htdocs\ordem\app\Controllers\OrdensItens.php(141): CodeIgniter\Validation\Validation->run()
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\OrdensItens->adicionarItem()
+#4 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OrdensItens))
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ordem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-09-07 18:37:33 --> Undefined property: stdClass::$item_principal
+#0 C:\xampp\htdocs\ordem\app\Views\Ordens\itens.php(109): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 109, Array)
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('Ordens/itens', Array, true)
+#4 C:\xampp\htdocs\ordem\app\Controllers\OrdensItens.php(35): view('Ordens/itens', Array)
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\OrdensItens->itens('RLAJBT2IANSMCJE...')
+#6 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OrdensItens))
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ordem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-09-07 18:51:01 --> Undefined variable: valorProduto
+#0 C:\xampp\htdocs\ordem\app\Views\Ordens\itens.php(103): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 103, Array)
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('Ordens/itens', Array, true)
+#4 C:\xampp\htdocs\ordem\app\Controllers\OrdensItens.php(35): view('Ordens/itens', Array)
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\OrdensItens->itens('RLAJBT2IANSMCJE...')
+#6 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\OrdensItens))
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ordem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#10 {main}

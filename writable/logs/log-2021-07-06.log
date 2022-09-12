@@ -1,0 +1,52 @@
+CRITICAL - 2021-07-06 23:05:20 --> Undefined variable: nome
+#0 C:\xampp\htdocs\ordem\app\Views\welcome_message.php(226): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 226, Array)
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 C:\xampp\htdocs\ordem\app\Controllers\Home.php(9): view('welcome_message')
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ordem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2021-07-06 23:27:28 --> Invalid file: teste.php
+#0 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teste.php')
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('teste', Array, true)
+#2 C:\xampp\htdocs\ordem\app\Controllers\Teste.php(11): view('teste')
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Teste->index()
+#4 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teste))
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ordem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-07-06 23:31:48 --> Invalid file: minha.php
+#0 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(213): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('minha.php')
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('minha', Array, true)
+#2 C:\xampp\htdocs\ordem\app\Controllers\Teste.php(17): view('minha')
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Teste->minha()
+#4 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teste))
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ordem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2021-07-06 23:43:40 --> syntax error, unexpected ';', expecting ']'
+#0 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Router\Router.php(169): CodeIgniter\Router\Router->autoRoute('teste')
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(809): CodeIgniter\Router\Router->handle('teste')
+#2 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(389): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\ordem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2021-07-06 23:48:06 --> Array to string conversion
+#0 C:\xampp\htdocs\ordem\app\Views\minha.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(230): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\View\View.php(232): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Common.php(1271): CodeIgniter\View\View->render('minha', Array, true)
+#4 C:\xampp\htdocs\ordem\app\Controllers\Teste.php(26): view('minha', Array)
+#5 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(928): App\Controllers\Teste->minha()
+#6 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(436): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Teste))
+#7 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\ordem\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\ordem\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(45): require_once('C:\\xampp\\htdocs...')
+#10 {main}
