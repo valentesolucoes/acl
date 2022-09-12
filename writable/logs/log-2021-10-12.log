@@ -1,0 +1,395 @@
+INFO - 12-10-2021 10:36:32 --> CSRF cookie sent.
+INFO - 12-10-2021 10:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 10:36:33 --> CSRF cookie sent.
+INFO - 12-10-2021 10:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 10:36:33 --> CSRF cookie sent.
+INFO - 12-10-2021 10:36:42 --> CSRF cookie sent.
+INFO - 12-10-2021 10:36:42 --> CSRF token verified.
+INFO - 12-10-2021 10:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 10:36:42 --> [ACAO-USUARIO-ID-5001] Usuário com o nome Lucio Souza Logou na aplicação com o e-mail lucio@email.com e com IP ::1
+INFO - 12-10-2021 10:36:42 --> CSRF cookie sent.
+INFO - 12-10-2021 10:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 10:36:43 --> CSRF cookie sent.
+INFO - 12-10-2021 10:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 10:55:42 --> CSRF cookie sent.
+INFO - 12-10-2021 10:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 10:55:42 --> CSRF cookie sent.
+INFO - 12-10-2021 10:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 10:55:43 --> CSRF cookie sent.
+INFO - 12-10-2021 11:14:05 --> CSRF cookie sent.
+INFO - 12-10-2021 11:14:05 --> CSRF token verified.
+INFO - 12-10-2021 11:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:14:05 --> [ACAO-USUARIO-ID-1] Usuário com o nome Usuario admin Logou na aplicação com o e-mail admin@admin.com e com IP ::1
+INFO - 12-10-2021 11:14:05 --> CSRF cookie sent.
+INFO - 12-10-2021 11:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:21:46 --> CSRF cookie sent.
+INFO - 12-10-2021 11:21:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:22:14 --> CSRF cookie sent.
+INFO - 12-10-2021 11:22:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:23:50 --> CSRF cookie sent.
+INFO - 12-10-2021 11:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:23:52 --> CSRF cookie sent.
+INFO - 12-10-2021 11:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:23:54 --> CSRF cookie sent.
+INFO - 12-10-2021 11:23:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:23:56 --> CSRF cookie sent.
+INFO - 12-10-2021 11:23:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:23:57 --> CSRF cookie sent.
+INFO - 12-10-2021 11:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:23:59 --> CSRF cookie sent.
+INFO - 12-10-2021 11:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:01 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:02 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:04 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:05 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:07 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:09 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:10 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:12 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:14 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:15 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:24 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:26 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:31 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:33 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:40 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:24:47 --> CSRF cookie sent.
+INFO - 12-10-2021 11:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:25:04 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:04 --> CSRF token verified.
+INFO - 12-10-2021 11:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:25:05 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:25:13 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:25:18 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:25:22 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:25:29 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:25:39 --> CSRF cookie sent.
+ERROR - 12-10-2021 11:25:40 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND  `usuarios`.`nome` LIKE '%usua%' ESCAPE '!'' at line 3
+INFO - 12-10-2021 11:25:49 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:50 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:50 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:52 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:25:53 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:53 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:53 --> CSRF cookie sent.
+INFO - 12-10-2021 11:25:59 --> CSRF cookie sent.
+ERROR - 12-10-2021 11:25:59 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND  `usuarios`.`nome` LIKE '%usuario%' ESCAPE '!'' at line 3
+INFO - 12-10-2021 11:29:13 --> CSRF cookie sent.
+INFO - 12-10-2021 11:29:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:29:18 --> CSRF cookie sent.
+INFO - 12-10-2021 11:29:18 --> CSRF cookie sent.
+INFO - 12-10-2021 11:29:18 --> CSRF cookie sent.
+INFO - 12-10-2021 11:29:22 --> CSRF cookie sent.
+INFO - 12-10-2021 11:31:17 --> CSRF cookie sent.
+INFO - 12-10-2021 11:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:31:23 --> CSRF cookie sent.
+INFO - 12-10-2021 11:31:25 --> CSRF cookie sent.
+INFO - 12-10-2021 11:35:04 --> CSRF cookie sent.
+INFO - 12-10-2021 11:35:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:35:07 --> CSRF cookie sent.
+ERROR - 12-10-2021 11:35:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND  `usuarios`.`nome` LIKE '%usua%' ESCAPE '!'' at line 3
+INFO - 12-10-2021 11:35:13 --> CSRF cookie sent.
+INFO - 12-10-2021 11:35:13 --> CSRF cookie sent.
+INFO - 12-10-2021 11:35:13 --> CSRF cookie sent.
+INFO - 12-10-2021 11:35:46 --> CSRF cookie sent.
+INFO - 12-10-2021 11:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:35:47 --> CSRF cookie sent.
+INFO - 12-10-2021 11:35:47 --> CSRF cookie sent.
+INFO - 12-10-2021 11:35:47 --> CSRF cookie sent.
+INFO - 12-10-2021 11:35:50 --> CSRF cookie sent.
+INFO - 12-10-2021 11:37:05 --> CSRF cookie sent.
+INFO - 12-10-2021 11:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:41:30 --> CSRF cookie sent.
+INFO - 12-10-2021 11:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:42:17 --> CSRF cookie sent.
+INFO - 12-10-2021 11:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:44:03 --> CSRF cookie sent.
+INFO - 12-10-2021 11:44:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:44:28 --> CSRF cookie sent.
+INFO - 12-10-2021 11:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:47:59 --> CSRF cookie sent.
+INFO - 12-10-2021 11:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:35 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:37 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:38 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:39 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:41 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:43 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:44 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:46 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:47 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:48 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:49 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:50 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:52 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:53 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:55 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:56 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:57 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:48:59 --> CSRF cookie sent.
+INFO - 12-10-2021 11:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:49:01 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:49:02 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:49:06 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:49:11 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:49:14 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:49:25 --> CSRF cookie sent.
+ERROR - 12-10-2021 11:49:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND  `usuarios`.`nome` LIKE '%usuario%' ESCAPE '!'' at line 3
+INFO - 12-10-2021 11:49:40 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:40 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:40 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:52 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:49:53 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:54 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:54 --> CSRF cookie sent.
+INFO - 12-10-2021 11:49:57 --> CSRF cookie sent.
+ERROR - 12-10-2021 11:49:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+AND  `usuarios`.`nome` LIKE '%usuario%' ESCAPE '!'' at line 3
+INFO - 12-10-2021 11:54:11 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:54:13 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:13 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:13 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:16 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:25 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:25 --> CSRF token verified.
+INFO - 12-10-2021 11:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:54:26 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:54:27 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:28 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:28 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:39 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:54:41 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:43 --> CSRF cookie sent.
+INFO - 12-10-2021 11:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:55:47 --> CSRF cookie sent.
+INFO - 12-10-2021 11:55:58 --> CSRF cookie sent.
+INFO - 12-10-2021 11:55:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:55:59 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:56:00 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:56:07 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:07 --> CSRF token verified.
+INFO - 12-10-2021 11:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:56:16 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:16 --> CSRF token verified.
+INFO - 12-10-2021 11:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:56:18 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:56:29 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:56:35 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:39 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:46 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:46 --> CSRF token verified.
+INFO - 12-10-2021 11:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:56:46 --> CSRF cookie sent.
+INFO - 12-10-2021 11:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:57:25 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:57:30 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:57:31 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:43 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:57:44 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:57:50 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:57:50 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:57:50 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:57:51 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:58 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:58 --> CSRF token verified.
+INFO - 12-10-2021 11:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:57:58 --> [ACAO-USUARIO-ID-2] Cliente com o nome Aurora Sebastiana da Silva Logou na aplicação com o e-mail aurora@hotmmail.com e com IP ::1
+INFO - 12-10-2021 11:57:58 --> CSRF cookie sent.
+INFO - 12-10-2021 11:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:00 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:10 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:16 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:16 --> CSRF token verified.
+INFO - 12-10-2021 11:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:30 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:30 --> CSRF token verified.
+INFO - 12-10-2021 11:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:34 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:34 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:34 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:35 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:42 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:42 --> CSRF token verified.
+INFO - 12-10-2021 11:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:49 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:49 --> CSRF token verified.
+INFO - 12-10-2021 11:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:49 --> [ACAO-USUARIO-ID-2] Cliente com o nome Aurora Sebastiana da Silva Logou na aplicação com o e-mail aurora@hotmmail.com e com IP ::1
+INFO - 12-10-2021 11:58:49 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:51 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:57 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:57 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:57 --> CSRF cookie sent.
+INFO - 12-10-2021 11:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 11:58:58 --> CSRF cookie sent.
+INFO - 12-10-2021 12:19:43 --> CSRF cookie sent.
+INFO - 12-10-2021 12:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:19:44 --> CSRF cookie sent.
+INFO - 12-10-2021 12:20:34 --> CSRF cookie sent.
+INFO - 12-10-2021 12:21:23 --> CSRF cookie sent.
+INFO - 12-10-2021 12:21:38 --> CSRF cookie sent.
+INFO - 12-10-2021 12:22:09 --> CSRF cookie sent.
+ERROR - 12-10-2021 12:22:09 --> Incorrect integer value: '' for column `ordem`.`grupos`.`exibir` at row 1
+INFO - 12-10-2021 12:25:19 --> CSRF cookie sent.
+INFO - 12-10-2021 12:25:24 --> CSRF cookie sent.
+INFO - 12-10-2021 12:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:25:24 --> CSRF cookie sent.
+INFO - 12-10-2021 12:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:25:24 --> CSRF cookie sent.
+INFO - 12-10-2021 12:26:02 --> CSRF cookie sent.
+INFO - 12-10-2021 12:26:02 --> CSRF token verified.
+INFO - 12-10-2021 12:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:26:03 --> [ACAO-USUARIO-ID-1] Usuário com o nome Usuario admin Logou na aplicação com o e-mail admin@admin.com e com IP ::1
+INFO - 12-10-2021 12:26:03 --> CSRF cookie sent.
+INFO - 12-10-2021 12:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:39:26 --> CSRF cookie sent.
+INFO - 12-10-2021 12:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 12-10-2021 12:39:26 --> Table 'ordem.usuarios' doesn't exist
+INFO - 12-10-2021 12:39:41 --> CSRF cookie sent.
+INFO - 12-10-2021 12:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 12-10-2021 12:39:41 --> Table 'ordem.usuarios' doesn't exist
+INFO - 12-10-2021 12:39:53 --> CSRF cookie sent.
+INFO - 12-10-2021 12:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 12-10-2021 12:39:53 --> Table 'ordem.usuarios' doesn't exist
+INFO - 12-10-2021 12:40:09 --> CSRF cookie sent.
+INFO - 12-10-2021 12:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:40:09 --> CSRF cookie sent.
+INFO - 12-10-2021 12:40:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:40:09 --> CSRF cookie sent.
+INFO - 12-10-2021 12:40:38 --> CSRF cookie sent.
+INFO - 12-10-2021 12:40:56 --> CSRF cookie sent.
+INFO - 12-10-2021 12:40:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:41:05 --> CSRF cookie sent.
+INFO - 12-10-2021 12:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:41:05 --> CSRF cookie sent.
+INFO - 12-10-2021 12:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:41:06 --> CSRF cookie sent.
+INFO - 12-10-2021 12:41:26 --> CSRF cookie sent.
+INFO - 12-10-2021 12:41:58 --> CSRF cookie sent.
+INFO - 12-10-2021 12:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:41:58 --> CSRF cookie sent.
+INFO - 12-10-2021 12:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:41:58 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:07 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:07 --> CSRF token verified.
+INFO - 12-10-2021 12:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:07 --> [ACAO-USUARIO-ID-1] Usuário com o nome Usuario admin Logou na aplicação com o e-mail admin@admin.com e com IP ::1
+INFO - 12-10-2021 12:42:07 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:15 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:16 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:24 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:26 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:34 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:38 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:40 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:41 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:51 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:52 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:53 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:42:58 --> CSRF cookie sent.
+INFO - 12-10-2021 12:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:43:00 --> CSRF cookie sent.
+INFO - 12-10-2021 12:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:43:03 --> CSRF cookie sent.
+INFO - 12-10-2021 12:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:43:33 --> CSRF cookie sent.
+INFO - 12-10-2021 12:43:33 --> CSRF token verified.
+INFO - 12-10-2021 12:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:43:33 --> CSRF cookie sent.
+INFO - 12-10-2021 12:43:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:43:39 --> CSRF cookie sent.
+INFO - 12-10-2021 12:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 12:43:49 --> CSRF cookie sent.
+INFO - 12-10-2021 12:43:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 13:06:13 --> CSRF cookie sent.
+INFO - 12-10-2021 13:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 13:06:13 --> CSRF cookie sent.
+INFO - 12-10-2021 13:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 13:09:03 --> CSRF cookie sent.
+INFO - 12-10-2021 13:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 13:09:03 --> CSRF cookie sent.
+INFO - 12-10-2021 13:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 13:09:03 --> CSRF cookie sent.
+INFO - 12-10-2021 13:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 12-10-2021 13:09:04 --> CSRF cookie sent.

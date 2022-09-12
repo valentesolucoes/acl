@@ -1,0 +1,20 @@
+<style>
+/* Estilizando o select para acompanhar a formatação do template */
+
+.selectize-input,
+.selectize-control.single .selectize-input.input-active {
+    background: #2d3035 !important;
+}
+
+.selectize-dropdown,
+.selectize-input,
+.selectize-input input {
+    color: #777;
+}
+
+.selectize-input {
+    /*        height: calc(2.4rem + 2px);*/
+    border: 1px solid #444951;
+    border-radius: 0;
+}
+</style>

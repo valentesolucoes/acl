@@ -1,0 +1,125 @@
+INFO - 11-09-2022 10:30:18 --> CSRF cookie sent.
+INFO - 11-09-2022 10:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:30:19 --> CSRF cookie sent.
+INFO - 11-09-2022 10:30:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:30:19 --> CSRF cookie sent.
+INFO - 11-09-2022 10:30:25 --> CSRF cookie sent.
+INFO - 11-09-2022 10:30:25 --> CSRF token verified.
+INFO - 11-09-2022 10:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:30:25 --> [ACAO-USUARIO-ID-5001] Usuário com o nome Lucio Souza Logou na aplicação com o e-mail lucio@email.com e com IP ::1
+INFO - 11-09-2022 10:30:25 --> CSRF cookie sent.
+INFO - 11-09-2022 10:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 11-09-2022 10:30:25 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vsi_ordem.clientes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+INFO - 11-09-2022 10:33:18 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:19 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:26 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:26 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:26 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:28 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:33 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:33 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:33 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:36 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:36 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:40 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:40 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:40 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:44 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:44 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:44 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:46 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:48 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:48 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:48 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:33:55 --> CSRF cookie sent.
+INFO - 11-09-2022 10:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 11-09-2022 10:33:55 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vsi_ordem.grupos_usuarios.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+INFO - 11-09-2022 10:34:08 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:09 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:09 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:11 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:11 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:11 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:13 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:13 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:15 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:15 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:15 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:16 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:16 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:23 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 11-09-2022 10:34:23 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vsi_ordem.grupos_permissoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+INFO - 11-09-2022 10:34:26 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:26 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:28 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:28 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:32 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:32 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:38 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:38 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:38 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:47 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:47 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:34:51 --> CSRF cookie sent.
+INFO - 11-09-2022 10:34:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 11-09-2022 10:34:51 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vsi_ordem.grupos_permissoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+INFO - 11-09-2022 10:35:31 --> CSRF cookie sent.
+INFO - 11-09-2022 10:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:35:31 --> CSRF cookie sent.
+INFO - 11-09-2022 10:35:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:36:03 --> CSRF cookie sent.
+INFO - 11-09-2022 10:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 11-09-2022 10:36:03 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vsi_ordem.grupos_permissoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+INFO - 11-09-2022 10:36:17 --> CSRF cookie sent.
+INFO - 11-09-2022 10:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:36:17 --> CSRF cookie sent.
+INFO - 11-09-2022 10:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 11-09-2022 10:36:58 --> CSRF cookie sent.
+INFO - 11-09-2022 10:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 11-09-2022 10:36:58 --> Expression #1 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'vsi_ordem.grupos_permissoes.id' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by

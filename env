@@ -1,0 +1,155 @@
+#--------------------------------------------------------------------
+# Example Environment Configuration file
+#
+# This file can be used as a starting point for your own
+# custom .env files, and contains most of the possible settings
+# available in a default install.
+#
+# By default, all of the settings are commented out. If you want
+# to override the setting, you must un-comment it by removing the '#'
+# at the beginning of the line.
+#--------------------------------------------------------------------
+
+#--------------------------------------------------------------------
+# ENVIRONMENT
+#--------------------------------------------------------------------
+
+# CI_ENVIRONMENT = production
+CI_ENVIRONMENT = development
+
+#--------------------------------------------------------------------
+# APP
+#--------------------------------------------------------------------
+
+app.baseURL = 'http://localhost:8080/'
+# app.forceGlobalSecureRequests = false
+
+# app.sessionDriver = 'CodeIgniter\Session\Handlers\FileHandler'
+# app.sessionCookieName = 'ci_session'
+# app.sessionExpiration = 7200
+# app.sessionSavePath = NULL
+# app.sessionMatchIP = false
+# app.sessionTimeToUpdate = 300
+# app.sessionRegenerateDestroy = false
+
+# app.CSPEnabled = false
+
+#--------------------------------------------------------------------
+# DATABASE
+#--------------------------------------------------------------------
+
+database.default.hostname = localhost
+database.default.database = ordem
+database.default.username = root
+database.default.password = 
+database.default.DBDriver = MySQLi
+database.default.DBPrefix =
+
+#--------------------------------------------------------------------
+# CONTENT SECURITY POLICY
+#--------------------------------------------------------------------
+
+# contentsecuritypolicy.reportOnly = false
+# contentsecuritypolicy.defaultSrc = 'none'
+# contentsecuritypolicy.scriptSrc = 'self'
+# contentsecuritypolicy.styleSrc = 'self'
+# contentsecuritypolicy.imageSrc = 'self'
+# contentsecuritypolicy.base_uri = null
+# contentsecuritypolicy.childSrc = null
+# contentsecuritypolicy.connectSrc = 'self'
+# contentsecuritypolicy.fontSrc = null
+# contentsecuritypolicy.formAction = null
+# contentsecuritypolicy.frameAncestors = null
+# contentsecuritypolicy.frameSrc = null
+# contentsecuritypolicy.mediaSrc = null
+# contentsecuritypolicy.objectSrc = null
+# contentsecuritypolicy.pluginTypes = null
+# contentsecuritypolicy.reportURI = null
+# contentsecuritypolicy.sandbox = false
+# contentsecuritypolicy.upgradeInsecureRequests = false
+
+#--------------------------------------------------------------------
+# COOKIE
+#--------------------------------------------------------------------
+
+# cookie.prefix = ''
+# cookie.expires = 0
+# cookie.path = '/'
+# cookie.domain = ''
+# cookie.secure = false
+# cookie.httponly = false
+# cookie.samesite = 'Lax'
+# cookie.raw = false
+
+
+
+#--------------------------------------------------------------------
+# E-mail
+#--------------------------------------------------------------------
+
+email.protocol = 'smtp'
+email.SMTPHost = 'smtp.gmail.com'
+email.SMTPUser = 'seuemail@gmail.com'
+email.SMTPPass = 'suasenha'
+email.SMTPPort = '465'
+email.SMTPCrypto = 'ssl'
+email.mailType = 'html'
+
+#--------------------------------------------------------------------
+# HONEYPOT
+#--------------------------------------------------------------------
+
+# honeypot.hidden = 'true'
+# honeypot.label = 'Fill This Field'
+# honeypot.name = 'honeypot'
+# honeypot.template = '<label>{label}</label><input type="text" name="{name}" value=""/>'
+# honeypot.container = '<div style="display:none">{template}</div>'
+
+#--------------------------------------------------------------------
+# SECURITY
+#--------------------------------------------------------------------
+
+# security.tokenName = 'csrf_token_name'
+# security.headerName = 'X-CSRF-TOKEN'
+# security.cookieName = 'csrf_cookie_name'
+# security.expires = 7200
+# security.regenerate = true
+# security.redirect = true
+# security.samesite = 'Lax'
+
+#--------------------------------------------------------------------
+# LOGGER
+#--------------------------------------------------------------------
+
+# logger.threshold = 4
+
+
+
+#--------------------------------------------------------------------
+# Chave de recuperação de senha
+#--------------------------------------------------------------------
+
+CHAVE_RECUPERACAO_SENHA = 'g3fWpYDTQijf1W2cDZPYTkcZVxlhWkMZ'
+
+
+#--------------------------------------------------------------------
+# API KEY para o https://check-mail.org/
+# https://rapidapi.com/developer/security/default-application_5375916
+#--------------------------------------------------------------------
+
+CHAVE_CHECK_MAIL_ORG_API = '406ab4f1d9mshbf7c5777fc9c0bcp1426e4jsn3a6512e6c78f'
+
+
+#--------------------------------------------------------------------
+# API KEY para o Gerencianet
+# Quando mudamos para o ambiente produtivo, não podemos usar nosso e-mail e telefone, 
+# cpf da conta da Gerencia net, pois dará o erro de 'Recebedor e cliente não podem ser a mesma pessoa.'
+#--------------------------------------------------------------------
+gerenciaNetClientId = 'Client_Id_3d39da69f62654f3f65c2bd01f17d5b3de038d89' # lembra de alterar para as credenciais do ambiente produtivo
+gerenciaNetClientSecret = 'Client_Secret_f0d7bfd43565bd25bb35560e7b4bfd1fa9df6328' # lembra de alterar para as credenciais do ambiente produtivo
+gerenciaNetSandbox = true # altere conforme o ambiente (true = homologação e false = producao)
+gerenciaNetDesconto = 700 # usaremos para atribuir desconto quando for boleto e também para exibir na view
+
+
+
+
